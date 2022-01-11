@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 dev content 1
 dev content 2
 dev content 3
+>>>>>>> 86a370d... dev content 1
